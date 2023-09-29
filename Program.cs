@@ -1,5 +1,6 @@
-﻿using System.Diagnostics;
-using static Calculator.MathLib;
+﻿using CalculatorB2B;
+using System.Diagnostics;
+using static CalculatorB2B.MathLib;
 
 namespace Calculator
 {
